@@ -1,0 +1,6 @@
+{
+  "name": "Alfa Portfolio",
+  "description": "Interactive space and black hole themed personal portfolio of Alfa, a 14-year-old student and developer from Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
